@@ -2,6 +2,7 @@
 A simple python program that takes Excel Files and imports them into monday.
 
 How to use:
+
     1. open up a terminal or cmd and navigate to the folder in which you put Redcube in.
 
     2. Type "python Serializer.py" into Terminal or cmd.

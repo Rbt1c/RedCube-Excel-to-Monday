@@ -1,6 +1,6 @@
 import xlrd
 
-book = xlrd.open_workbook("test.xls")       #replace "test.xls" with desired xls file.
+book = xlrd.open_workbook("SO_OpenOrders.xls")       #replace "test.xls" with desired xls file.
 sh = book.sheet_by_index(0)
 
 sourceFile = open('info.txt','w')
